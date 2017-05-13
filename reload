@@ -2,4 +2,4 @@
 
 sudo rmmod i2c-bcm2835
 sudo rmmod i2c-bcm2835-alt1
-sudo insmod `dirname $0`/i2c-bcm2835-fixed.ko
+sudo insmod `dirname $0`/i2c-bcm2835-alt1.ko
